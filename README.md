@@ -1,6 +1,6 @@
 # Rockinfox91.github.io
 Mon site web CV sur https://rockinfox91.github.io/.
-Codé entièrement seul, sans librairies particulière.
+Codé seul, sans librairies particulière (sauf csi.js qui permet de mettre du code html de différents fichier dans une balise).
 
 # A faire :
 
